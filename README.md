@@ -1,3 +1,8 @@
+<img src="https://github.com/dhawal-pandya/Dhawal-Pandya/blob/main/Dhawal%20Pandya.gif">
+
+
+
+
 <h1 align="center">Hi, I'm Dhawal Pandya</h1>
 <h3 align="center">An efficient software developer from India 🇮🇳</h3>
 
