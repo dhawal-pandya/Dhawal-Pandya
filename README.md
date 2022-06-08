@@ -1,5 +1,6 @@
 <img alt="Just a GIF" width="100%" src="https://github.com/dhawal-pandya/Dhawal-Pandya/blob/main/Dhawal%20Pandya.gif">
 
+<!-- <h1 align="center">Dhawal Pandya</h1> -->
 <!-- <h3 align="center">An efficient software developer from India 🇮🇳</h3> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhawal-pandya&label=Profile%20views&color=0e75b6&style=flat" alt="dhawal-pandya" /> </p>
