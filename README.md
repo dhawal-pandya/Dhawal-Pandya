@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhawal-pandya&label=Profile%20views&color=0e75b6&style=flat" alt="dhawal-pandya" /> </p>
 
-- 🔭 I’m currently working on [Butterly (Food-Order-Web-App)](https://github.com/dhawal-pandya/Butterly)
-
 - 🌱 I’m currently working on advancing my **React skills.**
 
 - 💬 Ask me about **HTML, CSS (BootStrap/TailwindCSS), JavaScript, React**
