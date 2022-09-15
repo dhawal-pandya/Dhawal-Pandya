@@ -3,7 +3,7 @@
 <!-- <h1 align="center">Dhawal Pandya</h1> -->
 <!-- <h3 align="center">Software developer from India 🇮🇳</h3> -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhawal-pandya&label=Profile%20views&color=0e75b6&style=flat" alt="dhawal-pandya" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhawal-pandya&label=Profile%20views&color=A020F0&style=flat" alt="dhawal-pandya" /> </p>
 
 - 🌱 I’m currently working on advancing my **DSA & ReactJS skills.**
 
