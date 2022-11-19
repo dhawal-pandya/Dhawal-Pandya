@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhawal-pandya&label=Profile%20views&color=A020F0&style=flat" alt="dhawal-pandya" /> </p>
 
-- 🌱 I’m currently working on advancing my **DSA & ReactJS skills.**
+- 🌱 I’m currently working on advancing my **Python Skills.**
 
 - 💬 Ask me about **HTML, CSS (BootStrap/TailwindCSS), JavaScript, ReactJS, NodeJS**
 
