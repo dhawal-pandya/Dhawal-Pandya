@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently working on advancing my **Python Skills.**
 
-- 💬 Ask me about **HTML, CSS (BootStrap/TailwindCSS), JavaScript, ReactJS, NodeJS**
+- 💬 Ask me about **JavaScript | Python | ReactJS**
 
 - 📫 How to reach me **dhawalpandya.01@gmail.com**
 
