@@ -47,11 +47,6 @@
 </p>
 
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<br>
-
-![Dhawal's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhawal-pandya&show_icons=true&theme=radical)
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 
