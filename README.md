@@ -8,7 +8,7 @@
 
 ## <picture><img src = "./assets/about_me.gif" width = "25"></picture> <b> About me</b>
 
-- 🌱 I’m currently working on advancing my **Python Skills.**
+- 🌱 I’m currently working on advancing my **Programming Skills.**
 
 - 💬 Ask me about **JavaScript | Python | ReactJS**
 
