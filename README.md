@@ -2,9 +2,9 @@
 
 Software Engineer building distributed systems, AI tools, and simulations of complex worlds.
 
-Currently at **Bolt**, where I work on merchant onboarding, checkout experiences, and AI-powered support systems.
+Currently at **Invictus AI**, where I work on AI powered compliance engines, scanning for CAN-SPAM, and FTC regulations and so much more.
 
-Outside work, I build projects exploring emergent worlds and pursuit-evasion games to predator-prey ecosystems and distributed observability, when I am not writing blogs or going on treks.
+Outside work, I build projects exploring emergent worlds and distributed observability, when I am not writing blogs or going on treks.
 
 ---
 
